@@ -12,7 +12,7 @@ Follow the prompts
 
 ## Example:
 
-### `01. Song Name .flac` to `01. Song Name.flac` within `\Music\Album\Artist\Artist - Album (Year)`
+`01. Song Name .flac` to `01. Song Name.flac` within `\Music\Album\Artist\Artist - Album (Year)`
 
 Following the prompts, input the phrase to be replaced, in this case " .flac", then input the replacement phrase, ".flac".
 
