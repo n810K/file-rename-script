@@ -1,5 +1,5 @@
-# python-rename-script
-A quick tool to rename files within a directory and subdirectories
+# file-rename-script
+A quick tool to rename files within a directory and subdirectories written in Python
 
 ## Usage
 
